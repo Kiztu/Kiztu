@@ -1,4 +1,4 @@
-#Hi, I’m @Kiztu. 
+Hi, I’m @Kiztu. 
 
 I am a Mechatronics Engineering Student who is also interested in Software and Web Design/Development. 
 
