@@ -4,4 +4,4 @@ I am a Mechatronics Engineering Student who is also interested in Software and W
 
 I am practicing web development, and will be honing my skills and experiences through personal and open-source projects.
 
-My real name is Carl, and you can contact me via email at carlm.prof@gmail.com.
+You can address me as Carl if you want to contact me via email at carlm.prof@gmail.com.
